@@ -7,7 +7,7 @@ Centralized configuration for .NET Core applications using Spring Cloud Config S
 
 If you're looking to set up a centralized configuration server or integrate it with your .NET Core application, the resources from the search results can guide you through the process¹²⁴. They provide detailed instructions and examples on how to build and consume remote configuration settings using Spring Cloud Config Server and Steeltoe.
 
-Source: Conversation with Copilot, 7/14/2024
+```
 (1) Centralized configuration for .NET Core with Spring Cloud Config Server .... https://itq.eu/knowledge/centralized-configuration-for-net-core-with-spring-cloud-config-server-and-steeltoe/.
 (2) Spring Cloud Config Server. https://docs.spring.io/spring-cloud-config/docs/current/reference/html/.
 (3) Centralized appsettings for .NET apps using Spring Cloud Config. https://blog.devops.dev/centralized-appsettings-for-net-apps-using-spring-cloud-config-d5835109b535.
@@ -16,3 +16,4 @@ Source: Conversation with Copilot, 7/14/2024
 (6) undefined. https://github.com/rwwilden/steeltoe-demo-worldfetch/.
 (7) undefined. https://github.com/spring-cloud-samples/config-repo/foo-development.properties.
 (8) undefined. https://github.com/spring-cloud-samples/config-repo/foo.properties.
+```
